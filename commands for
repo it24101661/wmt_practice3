@@ -1,0 +1,18 @@
+cd backend
+npm init -y
+npm install express mongoose cors dotenv
+npm install nodemon --save -dev
+npm run dev
+
+
+cd frontend
+npm create vite@latest
+npm install
+npm run dev
+
+
+git init
+git remote add origin (link)
+git add .
+git commit -m "message"
+git push -u origin main
