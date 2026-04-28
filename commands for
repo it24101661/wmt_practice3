@@ -16,3 +16,5 @@ git remote add origin (link)
 git add .
 git commit -m "message"
 git push -u origin main
+
+give me step by step instructions to complete this lab test in vs code ,and the struture is frontend and backend.give seperately sodes for that folders.and gie me step vy step instructions to run them and next i have to push them all in github .and then i have to deploy them in render and vercel.how i do them.give me step by step
